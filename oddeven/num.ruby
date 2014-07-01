@@ -1,2 +1,0 @@
- puts "Enter any integer"
-
