@@ -9,6 +9,7 @@ puts "enter the number that you want to search"
 s = gets.to_i
 first = 0
 last = n-1
+count = 0
 middle = (first+last)/2
  while first <= last
      if a[middle] == s
@@ -18,5 +19,9 @@ middle = (first+last)/2
             first = middle + 1
        else 
            last = middle - 1
- end
+ end 
+    middle = (first+last)/2
+end
+if first > last
+    puts "#{s} not found "
 end
