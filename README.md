@@ -31,10 +31,10 @@ Completed programs:
      25.Maximum element in array
      26.Minimum element in array
      27.Linear search
+     28.Binary search
 Pending Programs:
 
-     28.Addition using pointers
-     29.Binary search
+     29.Addition using pointers 
      30.Reverse array
      31.Insert element in array
      32.Delete element from array
