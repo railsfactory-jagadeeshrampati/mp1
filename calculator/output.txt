@@ -1,0 +1,12 @@
+Basic calculator
+Enter 'q' to quit.
+add 5 6
+11
+sub 5 2
+3
+mul 3 2
+6
+div 4 2
+2
+q
+
