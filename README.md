@@ -24,6 +24,7 @@ Completed programs:
      19.Prime numbers
      20.Find armstrong number
      21.Generate armstrong number
+       Basic Calculator task 
 
 Pending Programs:
      
