@@ -24,11 +24,11 @@ Completed programs:
      19.Prime numbers
      20.Find armstrong number
      21.Generate armstrong number
-       Basic Calculator task 
+        Basic Calculator task 
+     22.Fibonacci series
 
 Pending Programs:
-     
-     22.Fibonacci series
+
      23.Print floyd's triangle
      24.Print pascal triangle
      25.Addition using pointers
