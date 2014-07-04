@@ -32,10 +32,10 @@ Completed programs:
      26.Minimum element in array
      27.Linear search
      28.Binary search
+     29.Reverse array
 Pending Programs:
 
-     29.Addition using pointers 
-     30.Reverse array
+     30.Addition using pointers 
      31.Insert element in array
      32.Delete element from array
      33.Merge arrays
