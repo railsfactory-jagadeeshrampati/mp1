@@ -34,10 +34,10 @@ Completed programs:
      28.Binary search
      29.Reverse array
      30.Insert element in array
+     31.Delete element from array
 Pending Programs:
 
-     31.Addition using pointers 
-     32.Delete element from array
+     32.Addition using pointers 
      33.Merge arrays
      34.Bubble sort
      35.Insertion sort
