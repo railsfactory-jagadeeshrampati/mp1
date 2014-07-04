@@ -38,15 +38,14 @@ Completed programs:
      32.Bubble sort
      33.Insertion sort
      34.Selection sort
-
+     35.Add matrices
+     36.Subtract matrices
+     37.Transpose matrix
+     38.Multiply two matrices
 Pending Programs:
     
-     35.Merge arrays
-     36.Addition using pointers 
-     37.Add matrices
-     38.Subtract matrices
-     39.Transpose matrix
-     40.Multiply two matrices
+     39.Merge arrays
+     40.Addition using pointers 
      41.Print string
      42.String length
      43.Compare strings
