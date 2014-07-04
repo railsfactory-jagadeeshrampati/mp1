@@ -35,13 +35,14 @@ Completed programs:
      29.Reverse array
      30.Insert element in array
      31.Delete element from array
-Pending Programs:
+     32.Bubble sort
+     33.Insertion sort
+     34.Selection sort
 
-     32.Addition using pointers 
-     33.Merge arrays
-     34.Bubble sort
-     35.Insertion sort
-     36.Selection sort
+Pending Programs:
+    
+     35.Merge arrays
+     36.Addition using pointers 
      37.Add matrices
      38.Subtract matrices
      39.Transpose matrix
