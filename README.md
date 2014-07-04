@@ -42,13 +42,14 @@ Completed programs:
      36.Subtract matrices
      37.Transpose matrix
      38.Multiply two matrices
+     39.Print string
+     40.String length
+     41.Compare strings
+
 Pending Programs:
     
-     39.Merge arrays
-     40.Addition using pointers 
-     41.Print string
-     42.String length
-     43.Compare strings
+     42.Merge arrays
+     43.Addition using pointers 
      44.Copy string
      45.Concatenate strings
      46.Reverse string
