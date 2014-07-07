@@ -54,20 +54,20 @@ Completed programs:
      48.Swap strings
      49.Read file
      50.Copy files
+     51.Merge two files
+     52.List files in a directory
+     53.Delete file
+     54.Random numbers
 
 Pending Programs:
     
-     51.Merge arrays
-     52.Addition using pointers 
-     53.Delete vowels
-     54.C substring
-     55.Sort a string
-     56.Remove spaces 
-     57.Character's frequency
-     58.Merge two files
-     59.List files in a directory
-     60.Delete file
-     61.Random numbers
+     55.Merge arrays
+     56.Addition using pointers 
+     57.Delete vowels
+     58.C substring
+     59.Sort a string
+     60.Remove spaces 
+     61.Character's frequency
      62.Add complex numbers
      63.Print date
      64.Get IP address
