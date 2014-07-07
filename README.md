@@ -49,27 +49,26 @@ Completed programs:
      43.Concatenate strings
      44.Reverse string
      45.Find palindrome
+     46.change case
+     47.Anargams
+     48.Swap strings
+     49.Read file
+     50.Copy files
 
 Pending Programs:
     
-     46.Merge arrays
-     47.Addition using pointers 
-     48.String to integer
-     49.Delete vowels
-     50.C substring
-     51.Sort a string
-     52.Remove spaces
-     53.Change case
-     54.Swap strings
-     55.Character's frequency
-     56.Anagrams
-     57.Read file
-     58.Copy files
-     59.Merge two files
-     60.List files in a directory
-     61.Delete file
-     62.Random numbers
-     63.Add complex numbers
-     64.Print date
-     65.Get IP address
-     66.Shutdown computer
+     51.Merge arrays
+     52.Addition using pointers 
+     53.Delete vowels
+     54.C substring
+     55.Sort a string
+     56.Remove spaces 
+     57.Character's frequency
+     58.Merge two files
+     59.List files in a directory
+     60.Delete file
+     61.Random numbers
+     62.Add complex numbers
+     63.Print date
+     64.Get IP address
+     65.Shutdown computer
