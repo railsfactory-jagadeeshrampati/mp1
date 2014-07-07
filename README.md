@@ -48,12 +48,12 @@ Completed programs:
      42.Copy string
      43.Concatenate strings
      44.Reverse string
+     45.Find palindrome
 
 Pending Programs:
     
-     45.Merge arrays
-     46.Addition using pointers 
-     47.Find palindrome
+     46.Merge arrays
+     47.Addition using pointers 
      48.String to integer
      49.Delete vowels
      50.C substring
