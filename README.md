@@ -45,14 +45,14 @@ Completed programs:
      39.Print string
      40.String length
      41.Compare strings
+     42.Copy string
+     43.Concatenate strings
+     44.Reverse string
 
 Pending Programs:
     
-     42.Merge arrays
-     43.Addition using pointers 
-     44.Copy string
-     45.Concatenate strings
-     46.Reverse string
+     45.Merge arrays
+     46.Addition using pointers 
      47.Find palindrome
      48.String to integer
      49.Delete vowels
