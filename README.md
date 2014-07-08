@@ -58,17 +58,17 @@ Completed programs:
      52.List files in a directory
      53.Delete file
      54.Random numbers
+     55.C substring
+     56.Add complex numbers
 
 Pending Programs:
     
-     55.Merge arrays
-     56.Addition using pointers 
-     57.Delete vowels
-     58.C substring
-     59.Sort a string
-     60.Remove spaces 
-     61.Character's frequency
-     62.Add complex numbers
+     57.Merge arrays
+     58.Addition using pointers 
+     59.Delete vowels
+     60.Sort a string
+     61.Remove spaces 
+     62.Character's frequency
      63.Print date
      64.Get IP address
      65.Shutdown computer
