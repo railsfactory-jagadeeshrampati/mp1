@@ -62,13 +62,13 @@ Completed programs:
      56.Add complex numbers
      57.Print date
      58.Get IP address
+     59.Delete vowels
+     60.Remove spaces 
 
 Pending Programs:
     
-     59.Merge arrays
-     60.Addition using pointers 
-     61.Delete vowels
-     62.Sort a string
-     63.Remove spaces 
+     61.Merge arrays
+     62.Addition using pointers 
+     63.Sort a string
      64.Character's frequency
      65.Shutdown computer
