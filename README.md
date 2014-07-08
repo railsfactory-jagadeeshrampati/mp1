@@ -60,15 +60,15 @@ Completed programs:
      54.Random numbers
      55.C substring
      56.Add complex numbers
+     57.Print date
+     58.Get IP address
 
 Pending Programs:
     
-     57.Merge arrays
-     58.Addition using pointers 
-     59.Delete vowels
-     60.Sort a string
-     61.Remove spaces 
-     62.Character's frequency
-     63.Print date
-     64.Get IP address
+     59.Merge arrays
+     60.Addition using pointers 
+     61.Delete vowels
+     62.Sort a string
+     63.Remove spaces 
+     64.Character's frequency
      65.Shutdown computer
