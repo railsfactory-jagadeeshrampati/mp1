@@ -1,0 +1,3 @@
+exec('ifconfig')
+exec(cmd)
+
