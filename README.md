@@ -64,10 +64,10 @@ Completed programs:
      58.Get IP address
      59.Delete vowels
      60.Remove spaces 
+     61.Merge arrays
 
 Pending Programs:
-    
-     61.Merge arrays
+   
      62.Addition using pointers 
      63.Sort a string
      64.Character's frequency
