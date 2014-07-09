@@ -65,10 +65,10 @@ Completed programs:
      59.Delete vowels
      60.Remove spaces 
      61.Merge arrays
+     62.Character's frequency
+     62.Shutdown computer
 
 Pending Programs:
    
-     62.Addition using pointers 
-     63.Sort a string
-     64.Character's frequency
-     65.Shutdown computer
+     64.Addition using pointers (pointers concept)
+     65.Sort a string           (pointers concept)
