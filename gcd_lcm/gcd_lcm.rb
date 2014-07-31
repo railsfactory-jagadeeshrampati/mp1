@@ -1,10 +1,3 @@
-a=0
-b=0
-c=0
-d=0
-t=0
-gcm=0
-lcm=0
 puts "Enter any two numbers"
 a=gets.chomp.to_i
 b=gets.chomp.to_i
